@@ -5,7 +5,7 @@
 </template>
 
 <script>
-  //import BABYLON from 'babylonjs';
+  import BABYLON from 'babylonjs';
 
   export default {
     name: 'Axis3dComp',
