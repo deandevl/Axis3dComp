@@ -1,0 +1,31 @@
+{
+  "name": "axis3dcompdemo",
+  "version": "1.0.0",
+  "description": "A demo of Axis3dComp",
+  "main": "src/app.js",
+  "scripts": {
+    "build": "parcel build index.html"
+  },
+  "repository": "git+https://github.com/deandevl/Axis3dComp.git",
+  "keywords": [
+    "Vue.js",
+    "Axis3dComp"
+  ],
+  "author": "Rick Dean",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deandevl/Axis3dComp/issues"
+  },
+  "homepage": "https://github.com/deandevl/Axis3dComp#readme",
+  "dependencies": {
+    "axis3dcomp": "git+https://github.com/deandevl/Axis3dComp.git",
+    "babylonjs": "^3.1.0-rc-0",
+    "vue": "^2.5.9"
+  },
+  "devDependencies": {
+    "@vue/component-compiler-utils": "^3.0.0",
+    "less": "^3.9.0",
+    "parcel-bundler": "^1.12.3",
+    "vue-template-compiler": "^2.6.10"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "axis3dcomp",
+  "version": "1.0.0",
+  "description": "Vue.js component that creates a 3d x-y-z axis",
+  "main": "Axis3dComp.vue",
+  "repository": "git+https://github.com/deandevl/Axis3dComp.git",
+  "keywords": [
+    "Vue.js",
+    "Axis3dComp"
+  ],
+  "author": "Rick Dean",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deandevl/Axis3dComp/issues"
+  },
+  "homepage": "https://github.com/deandevl/Axis3dComp#readme",
+  "dependencies": {
+    "babylonjs": "^3.1.0-rc-0",
+    "vue": "^2.5.9"
+  }
+}
